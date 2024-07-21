@@ -1,4 +1,4 @@
-## Book App.
+## Book App
 
 ## Tech stack: React
 
